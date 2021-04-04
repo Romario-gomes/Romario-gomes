@@ -6,8 +6,7 @@
 
 ## Olá, seja bem vindo ao meu perfil :wave:
 
- Olá, tenho 18 anos e sou apaixonado por tecnologias :heart:, desenvolvedor web com foco em PHP. 
- Estudo Analise e desenvolvimento de Sistemas na Fatec São Caetano do Sul. 
+ Olá, tenho 18 anos e sou apaixonado por tecnologias :heart:, estudo programação com foco em desenvolvimento web. Atualmente estudo PHP e Javascript com foco em full-stack. 
 ## Habilidades :fire:
 
 <a href="https://www.linkedin.com/in/romario-alves-4a15ba19b/" target="blank">
