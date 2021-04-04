@@ -33,7 +33,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Romario-gomes&show_icons=true&theme=dark)
 
 
-### Princípais linguagens
+### Princípais tecnologia
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Romario-gomes)](https://github.com/Romario-gomes/github-readme-stats)
