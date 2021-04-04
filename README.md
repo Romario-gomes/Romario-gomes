@@ -1,6 +1,34 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Romario-gomes&show_icons=true&theme=dark)
+## Romário Alves (Desenvolver Web Jr) :computer: 
+
+<a href="https://www.linkedin.com/in/romario-alves-4a15ba19b/" target="blank">
+  <img alt="Romário-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+## Olá, seja bem vindo ao meu perfil :wave:
+
+ Olá, tenho 18 anos e sou apaixonado por tecnologias :heart:, desenvolvedor web com foco em PHP. 
+ Estudo Analise e desenvolvimento de Sistemas na Fatec São Caetano do Sul. 
+## Habilidades :fire:
+
+<a href="https://www.linkedin.com/in/romario-alves-4a15ba19b/" target="blank">
+  <img alt="Romário-linkedin" width="60" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+</a>
+
+<a href="https://www.linkedin.com/in/romario-alves-4a15ba19b/" target="blank">
+  <img alt="Romário-linkedin" width="60" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+</a>
+<a href="https://www.linkedin.com/in/romario-alves-4a15ba19b/" target="blank">
+  <img alt="Romário-linkedin" width="60" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</a>
+<a href="https://www.linkedin.com/in/romario-alves-4a15ba19b/" target="blank">
+  <img alt="Romário-linkedin" width="60" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Romario-gomes)](https://github.com/Romario-gomes/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Romario-gomes&show_icons=true&theme=dark)
+
+
 <!--
 **Romario-gomes/Romario-gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
