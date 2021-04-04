@@ -24,7 +24,14 @@
   <img alt="Romário-linkedin" width="60" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 </a>
 
+### Estatísticas Github
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Romario-gomes&show_icons=true&theme=dark)
+
+
+### Princípais linguagens
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Romario-gomes)](https://github.com/Romario-gomes/github-readme-stats)
 
