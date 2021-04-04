@@ -1,4 +1,4 @@
-[! [Estatísticas do GitHub do Anurag] (https://github-readme-stats.vercel.app/api ? Username = anuraghazra )] (https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Romario-gomes)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Romario-gomes/Romario-gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
