@@ -26,7 +26,7 @@
 <a href="https://www.linkedin.com/in/romario-alves-4a15ba19b/" target="blank">
   <img alt="Romário-linkedin" width="50" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </a>
-
+<!--
 ### Estatísticas Github
 
 
@@ -41,7 +41,7 @@
 
 
 
-<!--
+
 **Romario-gomes/Romario-gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
