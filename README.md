@@ -9,7 +9,7 @@
 
 - :computer: Desenvolvedor Web Full Stack
 - :man_technologist: Foco em desenvolvimento de aplicações web utilizando técnologias Javascript.
-- :compass: Meu foco na área de TI é me tornar um desenvolvedor referênncia na área.
+- :compass: Meu foco na Progamação é me tornar um desenvolvedor referência na área.
 
 - :world_map: Tenho como hobbies ouvir música, viajar e vivenciar experiências únicas.
 
