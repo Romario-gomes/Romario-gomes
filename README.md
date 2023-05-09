@@ -7,7 +7,7 @@
  
 </div>
 
-- :computer: Desenvolvedor Web Full Stack na Estrela 10 
+- :computer: Desenvolvedor Web Full Stack
 - :man_technologist: Foco em desenvolvimento de aplicações web utilizando técnologias Javascript.
 - :compass: Meu foco na área de TI é me tornar um desenvolvedor referênncia na área.
 
