@@ -7,7 +7,7 @@
  
 </div>
 
-- :computer: Desenvolvedor Back-end @apepê
+- :computer: Desenvolvedor Back-end @Nibi
 - :man_technologist: Foco em desenvolvimento de aplicações escaláveis .
 - :compass: Meu foco na Progamação é me tornar um desenvolvedor referência na área.
 
